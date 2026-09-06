@@ -7,7 +7,7 @@
 
 ## venv(가상환경 만들기/활성화/비활성화)
 1. 만들기
-cmd 창에 'python -m venv .venv' 입력
+cmd창에 'python -m venv .venv' 입력
 2. 활성화
 cmd창에 'venv\Scripts\activate.bat' 입력
 3. 비활성화
